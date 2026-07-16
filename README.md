@@ -36,4 +36,5 @@ This repository contains my solutions to LeetCode problems solved in Java. Throu
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0263-ugly-number) |
+| [0507-perfect-number](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
