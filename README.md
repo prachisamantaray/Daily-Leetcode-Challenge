@@ -19,6 +19,7 @@ This repository contains my solutions to LeetCode problems solved in Java. Throu
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0344-reverse-string](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0344-reverse-string) |
+| [0709-to-lower-case](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0709-to-lower-case) |
 ## Dynamic Programming
 |  |
 | ------- |
