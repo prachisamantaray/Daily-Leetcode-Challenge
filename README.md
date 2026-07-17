@@ -42,4 +42,12 @@ This repository contains my solutions to LeetCode problems solved in Java. Throu
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
