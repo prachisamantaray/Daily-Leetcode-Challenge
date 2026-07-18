@@ -36,12 +36,14 @@ This repository contains my solutions to LeetCode problems solved in Java. Throu
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0507-perfect-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
@@ -56,4 +58,8 @@ This repository contains my solutions to LeetCode problems solved in Java. Throu
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0011-container-with-most-water) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
