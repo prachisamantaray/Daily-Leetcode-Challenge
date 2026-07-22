@@ -24,15 +24,18 @@ This repository contains my solutions to LeetCode problems solved in Java. Throu
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0344-reverse-string) |
 ## Math
 |  |
@@ -51,6 +54,7 @@ This repository contains my solutions to LeetCode problems solved in Java. Throu
 | ------- |
 | [0011-container-with-most-water](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0136-single-number) |
 ## Bit Manipulation
 |  |
@@ -68,4 +72,8 @@ This repository contains my solutions to LeetCode problems solved in Java. Throu
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0015-3sum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
