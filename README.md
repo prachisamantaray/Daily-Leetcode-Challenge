@@ -76,4 +76,8 @@ This repository contains my solutions to LeetCode problems solved in Java. Throu
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0042-trapping-rain-water) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
