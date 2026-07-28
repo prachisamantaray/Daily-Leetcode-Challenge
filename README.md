@@ -57,6 +57,7 @@ This repository contains my solutions to LeetCode problems solved in Java. Throu
 | [0042-trapping-rain-water](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0217-contains-duplicate) |
+| [3819-rotate-non-negative-elements](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/3819-rotate-non-negative-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -69,6 +70,7 @@ This repository contains my solutions to LeetCode problems solved in Java. Throu
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0258-add-digits) |
+| [3819-rotate-non-negative-elements](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/3819-rotate-non-negative-elements) |
 ## Sorting
 |  |
 | ------- |
