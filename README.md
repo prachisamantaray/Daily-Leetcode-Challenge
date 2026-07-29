@@ -19,6 +19,7 @@ This repository contains my solutions to LeetCode problems solved in Java. Throu
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0344-reverse-string](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0709-to-lower-case](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0709-to-lower-case) |
 ## Dynamic Programming
 |  |
@@ -78,6 +79,7 @@ This repository contains my solutions to LeetCode problems solved in Java. Throu
 | ------- |
 | [0015-3sum](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0217-contains-duplicate) |
+| [0451-sort-characters-by-frequency](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0451-sort-characters-by-frequency) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -93,4 +95,17 @@ This repository contains my solutions to LeetCode problems solved in Java. Throu
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0217-contains-duplicate) |
+| [0451-sort-characters-by-frequency](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
