@@ -18,6 +18,7 @@ This repository contains my solutions to LeetCode problems solved in Java. Throu
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0451-sort-characters-by-frequency) |
 | [0709-to-lower-case](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0709-to-lower-case) |
@@ -58,6 +59,7 @@ This repository contains my solutions to LeetCode problems solved in Java. Throu
 | [0015-3sum](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0217-contains-duplicate) |
 | [3819-rotate-non-negative-elements](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/3819-rotate-non-negative-elements) |
@@ -78,6 +80,7 @@ This repository contains my solutions to LeetCode problems solved in Java. Throu
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0451-sort-characters-by-frequency) |
 ## Monotonic Stack
@@ -94,6 +97,7 @@ This repository contains my solutions to LeetCode problems solved in Java. Throu
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
