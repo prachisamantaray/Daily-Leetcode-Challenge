@@ -27,6 +27,7 @@ This repository contains my solutions to LeetCode problems solved in Java. Throu
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0042-trapping-rain-water) |
+| [0788-rotated-digits](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0788-rotated-digits) |
 ## Stack
 |  |
 | ------- |
@@ -46,6 +47,7 @@ This repository contains my solutions to LeetCode problems solved in Java. Throu
 | [0258-add-digits](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0507-perfect-number) |
+| [0788-rotated-digits](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0788-rotated-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
