@@ -17,6 +17,7 @@ This repository contains my solutions to LeetCode problems solved in Java. Throu
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0032-longest-valid-parentheses](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0344-reverse-string) |
@@ -101,6 +102,7 @@ This repository contains my solutions to LeetCode problems solved in Java. Throu
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0451-sort-characters-by-frequency) |
@@ -116,4 +118,8 @@ This repository contains my solutions to LeetCode problems solved in Java. Throu
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0451-sort-characters-by-frequency) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
