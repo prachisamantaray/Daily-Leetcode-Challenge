@@ -18,6 +18,7 @@ This repository contains my solutions to LeetCode problems solved in Java. Throu
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0008-string-to-integer-atoi) |
 | [0032-longest-valid-parentheses](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/prachisamantaray/Daily-Leetcode-Challenge/tree/master/0344-reverse-string) |
